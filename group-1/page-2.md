@@ -4,6 +4,6 @@
 
 Some text
 
-## Desction 2
+## Section 2
 
 > Note
